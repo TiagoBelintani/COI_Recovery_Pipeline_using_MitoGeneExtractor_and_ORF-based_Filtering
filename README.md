@@ -252,5 +252,6 @@ Users should cite the original MitoGeneExtractor publication when using this wor
 
 ## Author
 
-Tiago Belintani
+Tiago Belintani **Brave the Sun**
+
 
