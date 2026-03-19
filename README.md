@@ -17,12 +17,13 @@ The workflow includes:
 ---
 
 ## Directory Structure
-
+```bash
 mitogene_COI/
 ├── fastq/        # Paired-end reads (*READ1.fastq / *READ2.fastq)
 ├── refs/         # Reference COI sequences
 ├── results/      # Output from MitoGeneExtractor
 └── README.md
+```
 
 ---
 
