@@ -1,0 +1,2 @@
+# COI_Recovery_Pipeline_using_MitoGeneExtractor_and_ORF-based_Filtering
+This pipeline provides a reproducible workflow to recover mitochondrial COI sequences
